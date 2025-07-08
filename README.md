@@ -1,4 +1,4 @@
-# IosevkaFixedSS03 Nerd Font
+# IosevkaSS03 Nerd Font
 This repository contains the [IosevkaSS03 font](https://github.com/be5invis/Iosevka) patched with [Nerd Fonts glyphs](https://github.com/ryanoasis/nerd-fonts).
 
 # License
